@@ -5,12 +5,17 @@
 h1,
 h2,
 p,
-ul {
+ul,
+ol {
     text-align: center;
 }
 
 ul{
     list-style-type: none;
+}
+
+ol{
+    list-style-position: inside;
 }
 
 h1 {
@@ -24,7 +29,6 @@ body {
 
 a:link {color:#000000}
 a:visited {color:rgb(248, 82, 82);}
-
 a {
     font-size: 26px;
 }
