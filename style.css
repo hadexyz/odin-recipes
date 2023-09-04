@@ -20,6 +20,12 @@ body {
     background-color: rgb(255, 192, 203);
 }
 
+a:link {color:#000000}
+a:visited {color:rgb(248, 82, 82);}
+
+a {
+    font-size: 56px;
+}
 .center {
     display: block;
     margin-left: auto;
