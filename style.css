@@ -8,6 +8,14 @@ h1 {
     background-color: rgb(255, 221, 221);
 }
 
+h2 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
 body {
     background-color: rgb(255, 192, 203);
 }
