@@ -19,7 +19,8 @@ ol{
     list-style-position: inside;
 }
 
-h1 {
+h1, 
+div {
     color: rgb(248, 82, 82);
     background-color: rgb(255, 221, 221);
 }
