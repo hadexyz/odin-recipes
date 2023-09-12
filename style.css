@@ -41,6 +41,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     border-radius: 25px;
+    border: solid rgb(245, 238, 238);
   }
 #recipeheading {
     font-size: 72px;
