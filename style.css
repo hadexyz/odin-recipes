@@ -24,6 +24,7 @@ div {
     background-color: rgb(255, 221, 221);
     margin-left: 7em;
     margin-right: 7em;
+    border-radius: 4em;
 }
 
 body {
