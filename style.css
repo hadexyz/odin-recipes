@@ -69,3 +69,7 @@ a {
 .grid{
     display: grid;
 }
+
+a {
+    text-decoration: none
+}
